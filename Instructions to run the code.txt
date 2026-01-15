@@ -1,0 +1,10 @@
+Instructions to run the code:
+cd red_blue_nim
+python red_blue_nim_gui.py
+GUI window opens:
+>Set variant
+>Set First: Human or Computer
+>Enter Red marbles
+>Enter Blue marbles
+>Start Game
+(Also can use Play Human Move and Play AI move buttons until the game ends)
